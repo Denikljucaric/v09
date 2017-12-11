@@ -32,10 +32,6 @@ END_MESSAGE_MAP()
 
 DlgView::DlgView()
 	: CFormView(DlgView::IDD)
-	, left(_T(""))
-	, top(_T(""))
-	, right(_T(""))
-	, bottom(_T(""))
 {
 }
 
